@@ -1,0 +1,15 @@
+tr, th{
+    color: black;
+    
+
+}
+table {
+    width: 600px;
+    height: 200px;
+    font-size: larger;
+    background-color: gainsboro;
+}
+td {
+    border: 1px solid black;
+    
+}
